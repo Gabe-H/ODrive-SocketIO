@@ -1,0 +1,46 @@
+[
+    {
+        "serial": "35619061510230",
+        "boardName": "Left",
+        "pids": [
+            {
+                "id": "2",
+                "pos_gain": 90.0,
+                "vel_gain": 0.275,
+                "vel_integrator_gain": 1.375,
+                "current_lim": 5.0,
+                "vel_limit": 10.0
+            },
+            {
+                "id": "1",
+                "pos_gain": 90.0,
+                "vel_gain": 0.275,
+                "vel_integrator_gain": 1.375,
+                "current_lim": 5.0,
+                "vel_limit": 10.0
+            }
+        ]
+    },
+    {
+        "serial": "35546046410838",
+        "boardName": "Right",
+        "pids": [
+            {
+                "id": "3",
+                "pos_gain": 90.0,
+                "vel_gain": 0.275,
+                "vel_integrator_gain": 1.375,
+                "current_lim": 5.0,
+                "vel_limit": 10.0
+            },
+            {
+                "id": "4",
+                "pos_gain": 90.0,
+                "vel_gain": 0.275,
+                "vel_integrator_gain": 1.375,
+                "current_lim": 5.0,
+                "vel_limit": 20.0
+            }
+        ]
+    }
+]
